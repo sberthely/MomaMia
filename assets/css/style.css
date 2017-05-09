@@ -1,0 +1,40 @@
+/*#bar-chart rect {
+    fill: steelblue;
+ }
+*/
+#color-explorer {
+	background-color: #848FA5;
+}
+#img-grid {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 10px;
+}
+#color-img {
+	/*display: table;*/
+	/*width: 1px;*/
+	margin: 5px;
+	color: black;
+	/*To wrap caption around the image*/
+	width: min-content;
+}
+figcaption {
+	/*display: table-caption;*/
+	color: #FAFFEF;
+	font-weight: bold;
+}
+
+h4 {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	font-size: 220%;
+	color: #FAFFEF;
+}
+.bar-label {
+	fill: #FAFFEF;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+}

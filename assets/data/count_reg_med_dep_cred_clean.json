@@ -1,0 +1,1621 @@
+[
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Africa",
+      "Acquired_By" : "Collection Lent",
+      "total" : "2"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Africa",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "2"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "32"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Bequest",
+      "total" : "1"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Donation",
+      "total" : "3"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Exchange",
+      "total" : "6"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "31"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "579"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "116"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Asia",
+      "Acquired_By" : "Collection Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Asia",
+      "Acquired_By" : "Donation",
+      "total" : "2"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Asia",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "32"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "652"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "14"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Bequest",
+      "total" : "21"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "844"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "15"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Exchange",
+      "total" : "37"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "738"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "5870"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "570"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Bequest",
+      "total" : "2"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "33"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Commissioned",
+      "total" : "1"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "24"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Endowment",
+      "total" : "3"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Exchange",
+      "total" : "31"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "401"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "7649"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "MOMA collection",
+      "total" : "718"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "534"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Oceania",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "2"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "31"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "South America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "27"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "1631"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "2"
+    },
+    {
+      "Department" : "Architecture & Design - Image Archive",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "4"
+    },
+    {
+      "Department" : "Architecture & Design - Image Archive",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Architecture & Design - Image Archive",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "19"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Africa",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "21"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "35"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Africa",
+      "Acquired_By" : "Purchase",
+      "total" : "10"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Collection Lent",
+      "total" : "19"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "2"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "69"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "22"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Asia",
+      "Acquired_By" : "Endowment",
+      "total" : "2"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Asia",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "31"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "353"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "25"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Bequest",
+      "total" : "302"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "265"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Commissioned",
+      "total" : "11"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "2"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Endowment",
+      "total" : "14"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Exchange",
+      "total" : "3"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "309"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "2586"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "387"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "5"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Bequest",
+      "total" : "163"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "118"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Commissioned",
+      "total" : "10"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "1"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Endowment",
+      "total" : "89"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Exchange",
+      "total" : "1"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "481"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "4734"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "448"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Oceania",
+      "Acquired_By" : "Collection Lent",
+      "total" : "2"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Oceania",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "2"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "37"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "Oceania",
+      "Acquired_By" : "Purchase",
+      "total" : "3"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "South America",
+      "Acquired_By" : "Bequest",
+      "total" : "4"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "South America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "South America",
+      "Acquired_By" : "Commissioned",
+      "total" : "2"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "South America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "270"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "204"
+    },
+    {
+      "Department" : "Drawings",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "145"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Africa",
+      "Acquired_By" : "Donation",
+      "total" : "3"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "16"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Africa",
+      "Acquired_By" : "Purchase",
+      "total" : "6"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "1"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Donation",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Asia",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Asia",
+      "Acquired_By" : "Donation",
+      "total" : "19"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "86"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "48"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "25"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "6"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "48"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Exchange",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "8"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "185"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "MOMA collection",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "252"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "40"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "207"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "201"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Endowment",
+      "total" : "4"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "43"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "688"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "MOMA collection",
+      "total" : "12"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "1020"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Oceania",
+      "Acquired_By" : "Donation",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "15"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "Oceania",
+      "Acquired_By" : "Purchase",
+      "total" : "4"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "South America",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "2"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "South America",
+      "Acquired_By" : "Donation",
+      "total" : "3"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "31"
+    },
+    {
+      "Department" : "Film",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "20"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "29"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "Asia",
+      "Acquired_By" : "Collection Lent",
+      "total" : "4"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "103"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "4"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "484"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "12"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "1285"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "1"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Africa",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "8"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "12"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Africa",
+      "Acquired_By" : "MOMA collection",
+      "total" : "1"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Africa",
+      "Acquired_By" : "Purchase",
+      "total" : "11"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "7"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "3"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "1"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Asia",
+      "Acquired_By" : "Donation",
+      "total" : "21"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Asia",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "27"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "97"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Asia",
+      "Acquired_By" : "MOMA collection",
+      "total" : "1"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "42"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Europe",
+      "Acquired_By" : "Commissioned",
+      "total" : "2"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "27"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "343"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "590"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Europe",
+      "Acquired_By" : "MOMA collection",
+      "total" : "2"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "78"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "North America",
+      "Acquired_By" : "Bequest",
+      "total" : "1"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "37"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "195"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "1118"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "North America",
+      "Acquired_By" : "MOMA collection",
+      "total" : "2"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "234"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "4"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "South America",
+      "Acquired_By" : "Donation",
+      "total" : "2"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "South America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "27"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "58"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "21"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Africa",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "8"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "9"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Africa",
+      "Acquired_By" : "Purchase",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Bequest",
+      "total" : "5"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Collection Lent",
+      "total" : "14"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "4"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "11"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "6"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Asia",
+      "Acquired_By" : "Donation",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Asia",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "34"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "82"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "6"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "2"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Bequest",
+      "total" : "192"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "98"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "9"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Exchange",
+      "total" : "3"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "363"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "660"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "108"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "5"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Bequest",
+      "total" : "145"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "67"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Commissioned",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "17"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Exchange",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "424"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "1264"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "143"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Oceania",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "5"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "4"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "Oceania",
+      "Acquired_By" : "Purchase",
+      "total" : "3"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Bequest",
+      "total" : "2"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Donation",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Exchange",
+      "total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "60"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "74"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "5"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Africa",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "43"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "46"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Africa",
+      "Acquired_By" : "Purchase",
+      "total" : "8"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Collection Lent",
+      "total" : "3"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "17"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "497"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "4"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Asia",
+      "Acquired_By" : "Collection Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Asia",
+      "Acquired_By" : "Donation",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Asia",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "124"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "577"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "10"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Bequest",
+      "total" : "12"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "38"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Commissioned",
+      "total" : "5"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "285"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Exchange",
+      "total" : "5"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "1074"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "9949"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "780"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Acquired from the Artist",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Bequest",
+      "total" : "154"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "210"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Commissioned",
+      "total" : "167"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "554"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Endowment",
+      "total" : "131"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Exchange",
+      "total" : "78"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "2168"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "9024"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "3134"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Oceania",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "Oceania",
+      "Acquired_By" : "Purchase",
+      "total" : "1"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "South America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "69"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "175"
+    },
+    {
+      "Department" : "Photography",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "2"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Africa",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "221"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Africa",
+      "Acquired_By" : "Gift",
+      "total" : "91"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Africa",
+      "Acquired_By" : "Purchase",
+      "total" : "2"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Bequest",
+      "total" : "1"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Collection Lent",
+      "total" : "4"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "75"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Gift",
+      "total" : "215"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Antarctica",
+      "Acquired_By" : "Purchase",
+      "total" : "59"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Bequest",
+      "total" : "1"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Collection Lent",
+      "total" : "68"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Donation",
+      "total" : "19"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Endowment",
+      "total" : "23"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "549"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Gift",
+      "total" : "994"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Asia",
+      "Acquired_By" : "Purchase",
+      "total" : "78"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Bequest",
+      "total" : "548"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Collection Lent",
+      "total" : "10479"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Commissioned",
+      "total" : "199"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Donation",
+      "total" : "644"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Endowment",
+      "total" : "176"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Exchange",
+      "total" : "149"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "5893"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Gift",
+      "total" : "11230"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "MOMA collection",
+      "total" : "4"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Europe",
+      "Acquired_By" : "Purchase",
+      "total" : "2222"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Bequest",
+      "total" : "83"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "655"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Commissioned",
+      "total" : "47"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Donation",
+      "total" : "1127"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Endowment",
+      "total" : "450"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Exchange",
+      "total" : "19"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "5239"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Gift",
+      "total" : "16963"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "North America",
+      "Acquired_By" : "Purchase",
+      "total" : "1118"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Oceania",
+      "Acquired_By" : "Donation",
+      "total" : "35"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Oceania",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "28"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Oceania",
+      "Acquired_By" : "Gift",
+      "total" : "85"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "Oceania",
+      "Acquired_By" : "Purchase",
+      "total" : "22"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "South America",
+      "Acquired_By" : "Collection Lent",
+      "total" : "1"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "South America",
+      "Acquired_By" : "Donation",
+      "total" : "42"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "South America",
+      "Acquired_By" : "Endowment",
+      "total" : "1"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "South America",
+      "Acquired_By" : "Foundation Lent",
+      "total" : "703"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "South America",
+      "Acquired_By" : "Gift",
+      "total" : "774"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Region" : "South America",
+      "Acquired_By" : "Purchase",
+      "total" : "33"
+    }]
