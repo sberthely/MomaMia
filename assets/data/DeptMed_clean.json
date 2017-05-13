@@ -1,0 +1,757 @@
+[
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "10"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Chemical Photo Print",
+      "Total" : "9"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Digital Media",
+      "Total" : "373"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Fabric",
+      "Total" : "457"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "113"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "4579"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "GenBank DNA sequence file",
+      "Total" : "4"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Ink and Pencil",
+      "Total" : "5570"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Leather/Bone/Hair",
+      "Total" : "31"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Metal Techniques",
+      "Total" : "1052"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Modeling Material",
+      "Total" : "132"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Paint Techniques",
+      "Total" : "721"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Paper/Collage",
+      "Total" : "2463"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Photo Technique",
+      "Total" : "1096"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "1399"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "837"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Portfolio",
+      "Total" : "1"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Pottery",
+      "Total" : "62"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Print Technique",
+      "Total" : "595"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Serigraphy",
+      "Total" : "570"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Stone",
+      "Total" : "469"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Various",
+      "Total" : "1535"
+    },
+    {
+      "Department" : "Architecture & Design",
+      "Medium" : "Wood",
+      "Total" : "564"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Chemical Photo Print",
+      "Total" : "1"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Digital Media",
+      "Total" : "50"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Fabric",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "11"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "27"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Ink and Pencil",
+      "Total" : "5206"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Metal Techniques",
+      "Total" : "59"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Modeling Material",
+      "Total" : "8"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Paint Techniques",
+      "Total" : "3164"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Paper/Collage",
+      "Total" : "1337"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Photo Technique",
+      "Total" : "75"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "413"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "10"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Print Technique",
+      "Total" : "92"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Stone",
+      "Total" : "625"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Various",
+      "Total" : "139"
+    },
+    {
+      "Department" : "Drawings",
+      "Medium" : "Wood",
+      "Total" : "17"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "2203"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Digital Media",
+      "Total" : "213"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Fabric",
+      "Total" : "4"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "295"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "13"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Ink and Pencil",
+      "Total" : "5"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Metal Techniques",
+      "Total" : "1"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Paint Techniques",
+      "Total" : "28"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Paper/Collage",
+      "Total" : "219"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Photo Technique",
+      "Total" : "10"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Print Technique",
+      "Total" : "3"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Serigraphy",
+      "Total" : "1"
+    },
+    {
+      "Department" : "Film",
+      "Medium" : "Various",
+      "Total" : "195"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "13"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Chemical Photo Print",
+      "Total" : "3"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Digital Media",
+      "Total" : "59"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Fabric",
+      "Total" : "1"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "79"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "44"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Ink and Pencil",
+      "Total" : "50"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Metal Techniques",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Modeling Material",
+      "Total" : "2"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Paint Techniques",
+      "Total" : "19"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Paper/Collage",
+      "Total" : "161"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Photo Technique",
+      "Total" : "74"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "39"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Print Technique",
+      "Total" : "179"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Serigraphy",
+      "Total" : "20"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Stone",
+      "Total" : "3"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Various",
+      "Total" : "1226"
+    },
+    {
+      "Department" : "Fluxus Collection",
+      "Medium" : "Wood",
+      "Total" : "22"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "502"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Digital Media",
+      "Total" : "35"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Fabric",
+      "Total" : "2"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "2123"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Ink and Pencil",
+      "Total" : "55"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Metal Techniques",
+      "Total" : "6"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Modeling Material",
+      "Total" : "3"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Paint Techniques",
+      "Total" : "11"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Paper/Collage",
+      "Total" : "47"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Photo Technique",
+      "Total" : "154"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "19"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Portfolio",
+      "Total" : "10"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Print Technique",
+      "Total" : "24"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Stone",
+      "Total" : "54"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Various",
+      "Total" : "31"
+    },
+    {
+      "Department" : "Media and Performance Art",
+      "Medium" : "Wood",
+      "Total" : "13"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "9"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Digital Media",
+      "Total" : "21"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Fabric",
+      "Total" : "104"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "28"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "2"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Ink and Pencil",
+      "Total" : "67"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Leather/Bone/Hair",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Metal Techniques",
+      "Total" : "520"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Modeling Material",
+      "Total" : "119"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Paint Techniques",
+      "Total" : "1766"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Paper/Collage",
+      "Total" : "49"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Photo Technique",
+      "Total" : "33"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "411"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "81"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Pottery",
+      "Total" : "1"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Print Technique",
+      "Total" : "4"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Serigraphy",
+      "Total" : "27"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Stone",
+      "Total" : "88"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Various",
+      "Total" : "277"
+    },
+    {
+      "Department" : "Painting & Sculpture",
+      "Medium" : "Wood",
+      "Total" : "233"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "2"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Chemical Photo Print",
+      "Total" : "282"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Digital Media",
+      "Total" : "6"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "35"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "2705"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Ink and Pencil",
+      "Total" : "120"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Leather/Bone/Hair",
+      "Total" : "25"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Metal Techniques",
+      "Total" : "726"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Modeling Material",
+      "Total" : "7"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Paint Techniques",
+      "Total" : "52"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Paper/Collage",
+      "Total" : "288"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Photo Technique",
+      "Total" : "19123"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "4"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "55"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Portfolio",
+      "Total" : "6"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Print Technique",
+      "Total" : "7646"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Serigraphy",
+      "Total" : "5"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Stone",
+      "Total" : "4"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Various",
+      "Total" : "144"
+    },
+    {
+      "Department" : "Photography",
+      "Medium" : "Wood",
+      "Total" : "119"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "8, 35, 16mm",
+      "Total" : "63"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Chemical Photo Print",
+      "Total" : "51"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Digital Media",
+      "Total" : "721"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Fabric",
+      "Total" : "34"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Film/Tape/Vinyl",
+      "Total" : "669"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Fine Art Reproduction",
+      "Total" : "16144"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Ink and Pencil",
+      "Total" : "754"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Leather/Bone/Hair",
+      "Total" : "2"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Metal Techniques",
+      "Total" : "7275"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Modeling Material",
+      "Total" : "1758"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Paint Techniques",
+      "Total" : "4710"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Paper/Collage",
+      "Total" : "5231"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Photo Technique",
+      "Total" : "2893"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Polymers/Plastic",
+      "Total" : "1137"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Porcelaine/Glass/Ceramic/Crystal",
+      "Total" : "83"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Portfolio",
+      "Total" : "4923"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Print Technique",
+      "Total" : "1314"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Serigraphy",
+      "Total" : "2499"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Stone",
+      "Total" : "77"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Various",
+      "Total" : "10382"
+    },
+    {
+      "Department" : "Prints & Illustrated Books",
+      "Medium" : "Wood",
+      "Total" : "4620"
+    }
+  ]

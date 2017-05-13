@@ -1,6 +1,5 @@
-// var margin = {top: 350, right: 480, bottom: 350, left: 480},
-var margin = {top: 300, right: 380, bottom: 300, left: 380},
-    radius = Math.min(margin.top, margin.right, margin.bottom, margin.left) - 50;
+var margin = {top: 350, right: 480, bottom: 350, left: 480},
+    radius = Math.min(margin.top, margin.right, margin.bottom, margin.left) - 10;
 
 function filter_min_arc_size_text(d, i) {return (d.dx*d.depth*radius/3)>8}; 
 
@@ -77,14 +76,14 @@ function mouseMoveArc (d) {
 }
 
 var root_ = null;
-d3.json("assets/data/count_reg_med_dep_cred_clean.json", function(error, data) {
+d3.json("assets/data/DeptMed_clean.json", function(error, data) {
   if (error) return console.warn(error);
   // Compute the initial layout on the entire tree to sum sizes.
   // Also compute the full name and fill color for each node,
   // and stash the children so they can be restored as we descend.
 
 var newData = { name :"All Artwork", children : [] },
-    levels = ["Department","Region"];
+    levels = ["Department"];
 
 // For each data row, loop through the expected levels traversing the output tree
 data.forEach(function(d){
@@ -106,7 +105,7 @@ data.forEach(function(d){
         // Now reference the new child array as we go deeper into the tree
         depthCursor = depthCursor[index].children;
         // This is a leaf, so add the last element to the specified branch
-        if ( depth === levels.length - 1 ) depthCursor.push({ name : d.Acquired_By, size : d.total });
+        if ( depth === levels.length - 1 ) depthCursor.push({ name : d.Medium, size : d.Total });
     });
 });
   
